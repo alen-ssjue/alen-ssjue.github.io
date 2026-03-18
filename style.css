@@ -3,7 +3,7 @@ body    body {
     }
     div {
   width: 300px;
-  border: 15px solid green;
+  border: 15px solid rgb(186, 224, 186);
   padding: 50px;
   margin: 20px;
 }
