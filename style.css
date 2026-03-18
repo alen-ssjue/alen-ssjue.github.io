@@ -1,6 +1,10 @@
 body    body {
         background-color: rgb(5, 38, 49);
     }
-    h1 {
-        animation: color-change 3s infinite;
+    div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
+        
